@@ -56,7 +56,8 @@
     "roots/wp-password-bcrypt": "1.0.0"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "^2.5.1"
+    "squizlabs/php_codesniffer": "^2.5.1",
+    "plugins/fakerpress": "0.4.7"
   },
   "extra": {
     "installer-paths": {

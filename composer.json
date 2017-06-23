@@ -42,7 +42,7 @@
           "url": "https://downloads.wordpress.org/plugin/fakerpress.zip"
         },
         "require" : {
-          "composer/installers": "v1.2.6"
+          "composer/installers": "v1.2.0"
         }
       }
     }

@@ -30,6 +30,21 @@
     {
       "type": "composer",
       "url": "https://wpackagist.org"
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "plugins/fakerpress",
+        "version": "0.4.7",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "https://downloads.wordpress.org/plugin/fakerpress.zip"
+        },
+        "require" : {
+          "composer/installers": "v1.0.6"
+        }
+      }
     }
   ],
   "require": {
